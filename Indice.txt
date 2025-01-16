@@ -1,0 +1,21 @@
+Aqui esta el indice de los merges
+
+Adivinanzas (Todas las adivinanzas):
+    Adivinanzas.txt
+    adivinanzas2.txt
+
+Chistes (Todos los chistes):
+    Chistes.txt
+    Chistes2.txt
+
+Refranes (Todos los Refranes):
+    Refranes.txt
+    Refranes2.txt
+
+Trabalenguas (Todos los Trabalenguas):
+    Trabalenguas.txt
+    Trabalenguas2.txt
+
+Aqui se acaba el proyecto, gracias
+
+//By: Erik Gabriel De La Cruz Camacho
